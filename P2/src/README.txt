@@ -1,0 +1,2 @@
+We have found that if we press somewhere in between Homer's theeth, our pathfinder crashes. 
+We have not been able to fix it and we don't know why this happens, but we do know that our pathfinder can print 'No path' when there is no path between two point. We have take a screenshot of the exact point where  it crashes.
